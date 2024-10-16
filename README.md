@@ -3,3 +3,4 @@
 
 ## Python 书籍
 + **Python从小白到大牛**
++ **Learning Python, 5th Edition**
